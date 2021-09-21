@@ -1,0 +1,135 @@
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M33V6G3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2555121551459860');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2142781439191902&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+	<!-- Begin header -->
+	
+	<header id="TopHeader" class="shadow1">
+        <!--[if lt IE 11]>
+            <p class="browserupgrade" style="background-color:#ef4343;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <nav id="TopNavigation">
+            <div id="StripeToolsNavigation" class="stripe">
+                <div id="ToolsNavigation">
+                    <div class="ToolsNavigationItem" id="ToolsNavigationItemAccount">
+                        <div><a href="https://www.allaboutlearningpress.com/account.php">Account</a></div>
+                        <div class="dropdown" style="display:none;">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </div>
+                    </div>
+					<div class="ToolsNavigationItem" id="ToolsNavigationItemHelp">
+                        <div><a href="https://www.allaboutlearningpress.com/faq/">FAQs</a></div>
+                    </div>
+                    <div class="ToolsNavigationItem" id="ToolsNavigationItemHelp">
+                        <div><a href="https://www.allaboutlearningpress.com/contact/">Contact</a></div>
+                    </div>
+                    <div class="ToolsNavigationItem" id="ToolsNavigationItemCart">
+                        <div><a href="https://www.allaboutlearningpress.com/cart.php">Cart&nbsp;<img src="//aalplibs.com/AALP/images/0.1.14/header/shopping-cart.svg" onerror="this.onerror=null; this.src='//aalplibs.com/AALP/images/0.1.14/header/shopping-cart.png'" style="width:15px;margin-top:-3px;" alt="Need Help?" /></a></div>
+                        <!--<div class="dropdown" style="display:none;">
+							<div style="width:100%;display:inline-block;">
+                            	<img style="float:left" src="//placehold.it/50x50/" />
+                                <div style="float:left;">
+                                <div>Ziggy Puppet</div>
+                                <div class="italic">$5.99</div>
+                                </div>
+                            </div>
+                            <div style="width:100%;display:inline-block;">
+                            	<img style="float:left" src="//placehold.it/50x50/" />
+                                <div style="float:left;">
+                                <div>Spelling Interactive Kit (Deluxe)</div>
+                                <div class="italic">$44.85</div>
+                                </div>
+                            </div>
+                            <div style="width:100%;display:inline-block;">
+                            	<img style="float:left" src="//placehold.it/50x50/" />
+                                <div style="width:240px;margin-left:60px;">
+                                    <div>All About Spelling Level 1 Student Packet Only</div>
+                                    <div class="italic">$14.95</div>
+                                </div>
+                            </div>
+                            <div style="width:100%;display:inline-block;">
+                            	<img style="float:left" src="//placehold.it/50x50/" />
+                                <div style="width:240px;margin-left:60px;">
+                                    <div>All About Spelling Level 1 Materials (1 Teacher's Manual and 1 Student Packet)</div>
+                                    <div class="italic">$29.95</div>
+                                </div>
+                            </div>
+                            
+                        </div>-->
+                    </div>
+                    
+                    <div class="ToolsNavigationItem" id="ToolsNavigationItemSearch">
+                        <div>Search&nbsp;<img src="//aalplibs.com/AALP/images/0.1.14/header/magnifying-glass.svg" onerror="this.onerror=null; this.src='//aalplibs.com/AALP/images/0.1.14/header/magnifying-glass.png'" style="width:15px;margin-top:-5px;" alt="Search" /></div>
+                        <div class="dropdown" style="display:none;">
+                        	<form action="https://www.allaboutlearningpress.com/searchresults.html" method="get" onsubmit="return check_small_search_form()">
+                                <input type="text" name="search_query" id="search_query" class="Textbox" placeholder="Enter search terms here..." id="nextopiaText"  style="width:200px;margin:0;" />
+                                <button style="margin-top:-1px;" class="btn btn-primary" type="submit" id="nextopiaButton"><img src="//aalplibs.com/AALP/images/0.1.14/header/magnifying-glass.svg" onerror="this.onerror=null; this.src='//aalplibs.com/AALP/images/0.1.14/header/magnifying-glass.png'" style="width:25px;margin:3px 0;" alt="Search" /></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="StripePrimaryNavigation" class="stripe">
+                <div id="PrimaryNavigation">
+                    <div id="AALPLogo">
+                        <a href="https://www.allaboutlearningpress.com">
+                        	<div>
+                                <img id="header-logo-img" src="//aalplibs.com/AALP/images/0.1.14/logos/AALP_Logo.svg" onerror="this.onerror=null; this.src='//aalplibs.com/AALP/images/0.1.14/logos/AALP_Logo.png'" alt="All About Learning Press" />
+                            </div>
+                        </a>
+                    </div>
+                    <div id="PrimaryNavigationNav">
+                        <a href="https://www.allaboutlearningpress.com/all-about-reading/">
+                        	<div id="PrimaryNavigationItemReading" class="PrimaryNavigationItem" data-text-original="All About Reading" data-text-r400="Reading">All About Reading</div>
+                            <div class="arrow-up invisible"></div>
+                        </a>
+                        <a href="https://www.allaboutlearningpress.com/all-about-spelling/">
+                        	<div id="PrimaryNavigationItemSpelling" class="PrimaryNavigationItem" data-text-original="All About Spelling" data-text-r400="Spelling">All About Spelling</div>
+                            <div class="arrow-up invisible"></div>
+                        </a>
+                        <a href="/">
+                        	<div id="PrimaryNavigationItemFree" class="PrimaryNavigationItem" data-text-original="Free Resources" data-text-r1005="Freebies">Free Resources</div>
+                        	<div class="arrow-up"></div>
+                        </a>
+                        <a href="https://blog.allaboutlearningpress.com">
+                        	<div class="PrimaryNavigationItem">Blog</div>
+                            <div class="arrow-up invisible"></div>
+                        </a>
+                        <a href="https://www.allaboutlearningpress.com/about">
+                        	<div class="PrimaryNavigationItem">About</div>
+                            <div class="arrow-up invisible"></div>
+                        </a>
+                	</div>
+                </div>
+            </div>
+            <div id="StripeSecondaryNavigation" class="stripe">
+                <div id="SecondaryNavigation">
+                    <div class="SecondaryNavigationItem"><a href="#reports">E-books and Checklists</a></div>
+                    <div class="SecondaryNavigationItem"><a href="#activities">Activities</a></div>
+                    <div class="SecondaryNavigationItem"><a href="#articles">"How To" Articles</a></div>
+                    <div class="SecondaryNavigationItem"><a href="#quickguides">Quick Guides</a></div>
+					<div class="SecondaryNavigationItem"><a href="#programresources">Program Resources</a></div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- End header -->
